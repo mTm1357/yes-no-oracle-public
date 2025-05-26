@@ -4,6 +4,7 @@
 
 A mystical online divination tool to help you make life decisions. Visit <a href="https://yes-no-oracle.org" rel="dofollow">yes no oracle</a> to begin your divination journey.
 
+中文版: [yes no oracle](https://yes--no--oracle-org.translate.goog/?_x_tr_sl=auto&_x_tr_tl=zh-CN&_x_tr_hl=en)
 
 ## Features
 
