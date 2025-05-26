@@ -2,7 +2,8 @@
 
 # Yes No Oracle
 
-A mystical online divination tool to help you make life decisions. Visit [https://yes-no-oracle.org](https://yes-no-oracle.org) to begin your divination journey.
+A mystical online divination tool to help you make life decisions. Visit <a href="https://yes-no-oracle.org" rel="dofollow">yes no oracle</a> to begin your divination journey.
+
 
 ## Features
 
